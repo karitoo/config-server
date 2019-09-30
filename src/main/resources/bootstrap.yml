@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/karitoo/config-server
+          uri: https://github.com/karitoo/config-server/env
           username: karitoo
           password: 147258
           timeout: 5
