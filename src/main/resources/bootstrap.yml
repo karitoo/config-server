@@ -9,7 +9,7 @@ spring:
     config:
       server:
         git:
-          uri: http
+          uri:
           username: karitoo
           password: 147258
           timeout: 5
